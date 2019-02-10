@@ -9,7 +9,7 @@ body {
     margin: 0 auto;
     text-align: center;
     margin-top: 1em;
-    margin-bottom: 10em;
+    margin-bottom: 40em;
 }
 
 #section1 {
@@ -109,65 +109,16 @@ button {
     background-image: url('img/ic_camera_front_white_36px.svg');
 }
 
-@media screen and (orientation:portrait) {
+@media only screen and (max-width: 600px) {
     /* portrait-specific styles */
-
-    /* video_container (video) doesn't respect height...
-       so we will fill it in completely in portrait mode
-    */
-    #vid_container {
-        width:100%;
-        /*max-height:80%;*/
-    }
-
-    #gui_controls {
-        width: 100%;
-        height: 20%;
-        left:0;
-    }
-
-    #switchCameraButton {
-        left: calc(20% - 32px);
-        top: calc(50% - 32px);
-    }
-
-    #toggleFullScreenButton {
-        left: calc(80% - 32px);
-        top: calc(50% - 32px);
+    .section-img {
+        width: 300px;
+        position: absolute;
+        margin: 0 auto;
+        left: 0;
     }
 }
 
 @media screen and (orientation:landscape) {
-
-    #vid_container {
-        width:80%;
-        height:100%;
-    }
-
-    #vid_container.left {
-        left:20%;
-    }
-
-    /* we default to right */
-    #gui_controls {
-        width: 20%;
-        height:100%;
-        right:0;
-    }
-
-    /* for the lefties */
-    #gui_controls.left {
-        left:0;
-    }
-
-    #switchCameraButton {
-        left: calc(50% - 32px);
-        top: calc(18% - 32px);
-    }
-
-    #toggleFullScreenButton {
-        left: calc(50% - 32px);
-        top: calc(82% - 32px);
-    }
 
 }

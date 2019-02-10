@@ -4,6 +4,11 @@ function onLoad() {
 
 function startTimers() {
 
+   var screen0 = setTimeout(function(){
+      var audio = new Audio('../snd/audio1.mp3');
+      audio.play();
+      }, 100);
+
    var screen1 = setTimeout(function(){
       console.log('screen1 change works');
       document.getElementById('section1').style.display = 'none';
