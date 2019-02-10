@@ -13,6 +13,7 @@ body {
 }
 
 #label {
+    display: none;
 }
 
 #section1 {

@@ -24,7 +24,7 @@
 
 
 </head>
-<body onload="onLoad()">
+<body onload="onLoad()" onclick='responsiveVoice.speak(label);'>
 <div id="container">
     <div id="wrapper" class="container text-center center">
         <div id="section1" class="section">
@@ -79,7 +79,7 @@
         <div role="alert" aria-live="assertive" id="label">
         </div>
 
-        <input onclick='responsiveVoice.speak(label);' type='button' value='🔊 Play' />
+        <!--<input onclick='responsiveVoice.speak(label);' type='button' value='🔊 Play' />-->
 
     </div>
 </div>
