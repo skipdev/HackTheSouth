@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28aa6cf5-02dd-41c7-8011-d5ad4ca488db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ml5-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ml5-master.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webcam/js/heck.js" beforeDir="false" afterPath="$PROJECT_DIR$/webcam/js/heck.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webcam/local/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/webcam/local/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webcam/local/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/webcam/local/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webcam/local/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/webcam/local/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,17 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webcam/local/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webcam/local/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
+            <state relative-caret-position="300">
+              <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -36,17 +28,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webcam/js/heck.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="135">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webcam/js/main.js">
+        <entry file="file://$PROJECT_DIR$/webcam/local/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            <state relative-caret-position="326">
+              <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -54,40 +46,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webcam/local/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../heck/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/object_detection/local/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/image_classification/local/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-192">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="90">
+              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>color</find>
+      <find>orange</find>
+      <find>webcam</find>
+      <find>canvas</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -100,8 +73,9 @@
         <option value="$PROJECT_DIR$/Webcam_VIDEO_Classificatio copy/local/style.css" />
         <option value="$PROJECT_DIR$/Webcam_VIDEO_Classificatio copy/local/main.html" />
         <option value="$PROJECT_DIR$/../heck/css/main.css" />
-        <option value="$PROJECT_DIR$/webcam/local/main.html" />
+        <option value="$PROJECT_DIR$/webcam/local/main.js" />
         <option value="$PROJECT_DIR$/webcam/local/style.css" />
+        <option value="$PROJECT_DIR$/webcam/local/main.html" />
         <option value="$PROJECT_DIR$/webcam/js/heck.js" />
       </list>
     </option>
@@ -141,13 +115,7 @@
               <item name="ml5-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="ml5-master" type="462c0819:PsiDirectoryNode" />
               <item name="webcam" type="462c0819:PsiDirectoryNode" />
-              <item name="local" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ml5-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ml5-master" type="462c0819:PsiDirectoryNode" />
-              <item name="webcam" type="462c0819:PsiDirectoryNode" />
-              <item name="snd" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,24 +161,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549744205034</updated>
-      <workItem from="1549744206564" duration="6199000" />
+      <workItem from="1549744206564" duration="7190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6199000" />
+    <option name="totallyTimeSpent" value="7190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -287,13 +255,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webcam/local/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webcam/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -301,24 +262,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webcam/local/main.js">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_ml5@0.1.1_dist_ml5.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_p5.js_0.6.1_p5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="209">
+          <caret line="18174" column="21" selection-start-line="18174" selection-start-column="21" selection-end-line="18174" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_p5.js_0.6.1_addons_p5.dom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="2606" column="50" lean-forward="true" selection-start-line="2606" selection-start-column="50" selection-end-line="2606" selection-end-column="50" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webcam/local/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="90">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webcam/local/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="53" column="26" lean-forward="true" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webcam/local/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webcam/js/heck.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="135">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
         </state>
       </provider>
     </entry>

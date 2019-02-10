@@ -9,7 +9,7 @@ let label='model loading...';
 function setup()
 {
     //create canvas
-    createCanvas(640,480);
+    createCanvas(1040,1080);
     //imitialize the webcam stream in a object
     video=createCapture(VIDEO);
     //hide the webcam stream
@@ -53,6 +53,9 @@ function draw()
 
   //setting up text label 
     textSize(32);
-    fill(255,140,0);
+    fill(255,255,255);
     text(label,10,450);
+
+   document.getElementById("label").innerHTML = label;
+
 }
