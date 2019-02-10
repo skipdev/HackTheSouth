@@ -1,6 +1,14 @@
 body {
     margin:0px;
     padding: 0px;
+    font-size: 2em;
+}
+
+.section {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 1em;
 }
 
 #section1 {
